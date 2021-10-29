@@ -1,2 +1,2 @@
-# DATA1002
+# Python Projects
 Data Cleaning, Visualisation, Machine Learning
