@@ -95,8 +95,6 @@ print("Under-five Mortality Rate: 13")
 print("Predicted Region:", clf.predict([[7,9 ,10 ,13]]))
 
 
-# In[ ]:
-
 
 
 
